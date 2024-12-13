@@ -9,3 +9,5 @@ Hotels service is playing the role of a slow backend system.
 Apartments service is playing the role of a fast service and modern service.
 
 There is also a jmeter test case in order to validate the theory behind the virtual threads.
+
+see more at https://www.linkedin.com/pulse/how-unblock-your-spring-boot-3-service-enabling-real-life-fragiskos-mv4df
